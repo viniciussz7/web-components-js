@@ -16,13 +16,15 @@ _Santander Bootcamp 2023 - Fullstack Java+Angular
 ## 🧩 Stack utilizada
 
 **Front-end:** HTML, CSS e JavaScript
+![Html](https://www.flaticon.com/br/icone-gratis/html-5_5968267?term=html&page=1&position=2&origin=search&related_id=5968267) ![CSS](https://www.flaticon.com/br/icone-gratis/css-3_5968242?term=css&page=1&position=4&origin=search&related_id=5968242) ![JS](https://www.flaticon.com/br/icone-gratis/js_5968292?term=js&page=1&position=3&origin=search&related_id=5968292)
 
 **Versionamento:** Git
+![GIT](https://www.flaticon.com/br/icone-gratis/git_7544486?term=git&page=1&position=11&origin=search&related_id=7544486)
 
 
 ## 💡 Aprendizados
 
-- Construir e estiliar componentes com JS vanilla
+- Construir e estilizar componentes com JS vanilla
 - Entender como funcionam a DOM e a Shadow DOM
 
 De forma geral, com esse simples projeto foi possivel entender o que frameworks que se baseiam em componentes fazem por debaixo dos panos e perceber como trabalhar com componentes deixa o codigo menos verboso e traz uma grande vantagem: reutilização.
@@ -30,7 +32,7 @@ De forma geral, com esse simples projeto foi possivel entender o que frameworks 
 
 ## 🎨 Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://github.com/viniciussz7/web-components-js/blob/main/assets/screenshot.png)
 
 
 ## 🤝 Contribue!
