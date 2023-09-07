@@ -1,5 +1,5 @@
 
-# Galactics News! [![sith_darthvader](https://cdn3.emoji.gg/emojis/8399-sith-darthvader.png)](https://emoji.gg/emoji/8399-sith-darthvader)
+# Galactics News! ![darthvader](https://github.com/viniciussz7/web-components-js/blob/main/assets/darth.png)
 
 
 _Santander Bootcamp 2023 - Fullstack Java+Angular
@@ -16,7 +16,7 @@ _Santander Bootcamp 2023 - Fullstack Java+Angular
 ## 🧩 Stack utilizada
 
 **Front-end:** HTML, CSS e JavaScript
-[![HTML](https://cdn3.emoji.gg/emojis/HTML.png)](https://emoji.gg/emoji/HTML) [![css](https://cdn3.emoji.gg/emojis/css.png)](https://emoji.gg/emoji/css) [![Javascript](https://cdn3.emoji.gg/emojis/8727-javascript.png)](https://emoji.gg/emoji/8727-javascript)
+![HTML](https://github.com/viniciussz7/web-components-js/blob/main/assets/html.png) ![css](https://github.com/viniciussz7/web-components-js/blob/main/assets/css.png) ![Javascript](https://github.com/viniciussz7/web-components-js/blob/main/assets/js.png)
 
 **Versionamento:** Git
 
