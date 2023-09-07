@@ -16,10 +16,9 @@ _Santander Bootcamp 2023 - Fullstack Java+Angular
 ## 🧩 Stack utilizada
 
 **Front-end:** HTML, CSS e JavaScript
-![Html](https://www.flaticon.com/br/icone-gratis/html-5_5968267?term=html&page=1&position=2&origin=search&related_id=5968267) ![CSS](https://www.flaticon.com/br/icone-gratis/css-3_5968242?term=css&page=1&position=4&origin=search&related_id=5968242) ![JS](https://www.flaticon.com/br/icone-gratis/js_5968292?term=js&page=1&position=3&origin=search&related_id=5968292)
+[![HTML](https://cdn3.emoji.gg/emojis/HTML.png)](https://emoji.gg/emoji/HTML) [![css](https://cdn3.emoji.gg/emojis/css.png)](https://emoji.gg/emoji/css) [![Javascript](https://cdn3.emoji.gg/emojis/8727-javascript.png)](https://emoji.gg/emoji/8727-javascript)
 
 **Versionamento:** Git
-![GIT](https://www.flaticon.com/br/icone-gratis/git_7544486?term=git&page=1&position=11&origin=search&related_id=7544486)
 
 
 ## 💡 Aprendizados
