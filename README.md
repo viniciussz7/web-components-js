@@ -16,7 +16,6 @@ _Santander Bootcamp 2023 - Fullstack Java+Angular
 ## 🧩 Stack utilizada
 
 **Front-end:** HTML, CSS e JavaScript
-![HTML](https://github.com/viniciussz7/web-components-js/blob/main/assets/html.png) ![css](https://github.com/viniciussz7/web-components-js/blob/main/assets/css.png) ![Javascript](https://github.com/viniciussz7/web-components-js/blob/main/assets/js.png)
 
 **Versionamento:** Git
 
